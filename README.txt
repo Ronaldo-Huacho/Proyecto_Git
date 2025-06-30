@@ -4,9 +4,9 @@ Descripción:
 Este proyecto es una página web sencilla que permite a los usuarios registrarse a un curso. Incluye un formulario HTML y estilos CSS.
 
 Integrantes del grupo:
-- Juan Pérez: Agregó los archivos HTML y estructura del formulario.
-- María Gómez: Mejoró el diseño visual con CSS.
-- Luis Torres: Redactó la documentación del proyecto.
+- Ronaldo Huacho: Agregó los archivos HTML y estructura del formulario.
+- Jeferson Andrade: Mejoró el diseño visual con CSS.
+- Abel Lopez: Redactó la documentación del proyecto.
 
 Tecnologías usadas:
 - HTML
