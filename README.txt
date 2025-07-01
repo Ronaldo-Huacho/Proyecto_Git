@@ -1,16 +1,20 @@
-Proyecto: Ficha de Inscripción Web
+Nombre del proyecto: Proyecto Web Colaborativo con Git y GitHub
 
 Descripción:
-Este proyecto es una página web sencilla que permite a los usuarios registrarse a un curso. Incluye un formulario HTML y estilos CSS.
+Este proyecto consiste en el desarrollo de una página web sencilla que simula una ficha de inscripción o presentación de un curso. El proyecto se realiza de manera colaborativa entre tres estudiantes utilizando Git y GitHub.
 
-Integrantes del grupo:
-- Ronaldo Huacho: Agregó los archivos HTML y estructura del formulario.
-- Jeferson Andrade: Mejoró el diseño visual con CSS.
-- Abel Lopez: Redactó la documentación del proyecto.
+Objetivo general:
+Aprender a utilizar Git y GitHub para la gestión de versiones y el trabajo en equipo, empleando ramas individuales para realizar aportes sin conflictos.
 
-Tecnologías usadas:
-- HTML
-- CSS
+Estructura del proyecto:
+- index.html: Página principal con contenido básico.
+- estilos.css: Archivo CSS para la presentación visual.
+- README.txt: Este archivo, con la descripción general del proyecto.
 
-Cómo usar:
-Abrir el archivo index.html o formulario.html en un navegador.
+Responsabilidades:
+- Estudiante 1: Agregó archivos HTML y CSS base.
+- Estudiante 2: Mejoró el diseño y estilo de la página con CSS.
+- Estudiante 3 (Abel López): Documentó todo el proyecto en el archivo README.txt.
+
+Repositorio del proyecto:
+https://github.com/Ronaldo-Huacho/Proyecto_Git
